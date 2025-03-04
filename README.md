@@ -42,25 +42,25 @@
     <tr>
         <td>Power BI</td>
         <td>2023</td>
-        <td>last_quarter_moon:</td>
+        <td>:last_quarter_moon:</td>
         <td>Повторить по необходимости</td>
     </tr>
     <tr>
         <td>Visiology</td>
         <td>2024</td>
-        <td>last_quarter_moon:</td>
+        <td>:last_quarter_moon:</td>
         <td>Повторить по необходимости</td>
     </tr>
     <tr>
         <td>OLAP-кубы</td>
         <td>2024</td>
-        <td>last_quarter_moon:</td>
+        <td>:last_quarter_moon:</td>
         <td>Повторить перед собеседованием</td>
     </tr>
     <tr>
         <td>DWH</td>
         <td>2024</td>
-        <td>last_quarter_moon:</td>
+        <td>:last_quarter_moon:</td>
         <td>Повторить перед собеседованием</td>
     </tr>
     <tr>
@@ -98,11 +98,13 @@
 3. Постепенно проходить курс по DE, чтобы расширить дополнительные профессиональные возможности
 4. Разобраться с A/B тестами и продуктовыми метриками
 
-## Связаться со мной
-
-Telegram: [@MariKlachan](https://t.me/MariKlachan)
-
 ### Заключение
 
 Базовые навыки для работы Junior BI-аналитиком уже получены. Осталось дождаться рабочих проектов и постепенно повышать свои скилы. 
 Желательно сосредоточиться на каком-то одном BI-инструменте и плотнее изучить его,  в том чилсе на рабочих задачах.
+
+---
+
+## :calling: Связаться со мной
+
+Telegram: [@MariKlachan](https://t.me/MariKlachan)
