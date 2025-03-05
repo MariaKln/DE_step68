@@ -30,8 +30,8 @@
     <tr>
         <td>SQL</td>
         <td>2023, 2024, 2025</td>
-        <td>:white_check_mark:</td>
-        <td>Изучено</td>
+        <td>:last_quarter_moon:</td>
+        <td>Порешать еще задач</td>
     </tr>
     <tr>
         <td>Pandas</td>
