@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <td>Python</td>
-        <td>2023</td>
+        <td>2023, 2025</td>
         <td>:seedling:</td>
         <td>Начала повторять</td>
     </tr>
@@ -35,9 +35,9 @@
     </tr>
     <tr>
         <td>Pandas</td>
-        <td>2023</td>
-        <td>:bell:</td>
-        <td>Необходимо повторить</td>
+        <td>2023, 2025</td>
+        <td>:seedling:</td>
+        <td>Начала повторять</td>
     </tr>
     <tr>
         <td>Power BI</td>
